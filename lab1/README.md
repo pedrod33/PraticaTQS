@@ -1,4 +1,4 @@
-##Which classes/methods offer less coverage? Are all possible decision branches being covered?
+## Which classes/methods offer less coverage? Are all possible decision branches being covered?
 
 A classe que apresenta menor cobertura é a classe CuponEuromillions visto que a função format, que é um dos maiores métodos da classe, não apresentava qualquer tipo de comentário. As restantes classes apenas não apresentam testes em funções curtas e que são implementadas automaticamente.
 

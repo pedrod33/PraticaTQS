@@ -1,3 +1,3 @@
-##Consider that we want to verify the AddressResolver#findAddressForLocation, which invokes a remote geocoding service, available in a REST interface, passing the site coordinates. Which is the service to mock?
+## Consider that we want to verify the AddressResolver#findAddressForLocation, which invokes a remote geocoding service, available in a REST interface, passing the site coordinates. Which is the service to mock?
 
 Tendo em conta que a classe *AddressResolver* depende dum serviço que retorna resultados com estrutura previsível mas conteúdo imprevisível, devemos simular o conteúdo de resposta aos pedidos de forma a conseguir testar os métodos que vão ser utilizados para os dados recebidos desse serviço de *geocoding*. Para isso faz-se *mock* da interface *ISimpleHttpClient*.
