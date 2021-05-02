@@ -1,5 +1,7 @@
 package euromillions;
 
+import java.security.NoSuchAlgorithmException;
+import java.security.SecureRandom;
 import java.util.Objects;
 
 import sets.SetOfNaturals;
@@ -20,6 +22,8 @@ public class Dip {
     private static final int NUM_AMOUNT=5;
     private static final int STAR_MAX=9;
     private static final int NUM_MAX=49;
+
+
 
     public Dip() {
         numbers = new SetOfNaturals();
@@ -46,22 +50,19 @@ public class Dip {
         return starts;
     }
 
-    public static Dip generateRandomDip() {
-        Random generator = new Random();
-
+    public static Dip generateRandomDip() throws NoSuchAlgorithmException {
+        Random generator = SecureRandom.getInstanceStrong();
         Dip randomDip = new Dip();
-        for (int i = 0; i < NUM_AMOUNT; ) {
+        for (int i = 0; i < NUM_AMOUNT; i++) {
             int candidate = generator.nextInt(NUM_MAX) + 1;
             if (!randomDip.getNumbersColl().contains(candidate)) {
                 randomDip.getNumbersColl().add(candidate);
-                i++;
             }
         }
-        for (int i = 0; i < STAR_AMOUNT; ) {
+        for (int i = 0; i < STAR_AMOUNT; i++) {
             int candidate = generator.nextInt(STAR_MAX) + 1;
             if (!randomDip.getStarsColl().contains(candidate)) {
                 randomDip.getStarsColl().add(candidate);
-                i++;
             }
         }
         return randomDip;

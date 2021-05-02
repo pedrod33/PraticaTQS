@@ -1,6 +1,8 @@
 package euromillions;
 
+import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Models an Euromillions draw. Contains the solution and allows to find
@@ -26,7 +28,7 @@ public class EuromillionsDraw {
      *
      * @return new instance
      */
-    static public EuromillionsDraw generateRandomDraw() {
+    public static EuromillionsDraw generateRandomDraw() throws NoSuchAlgorithmException {
         return new EuromillionsDraw(Dip.generateRandomDip());
     }
 
@@ -37,9 +39,9 @@ public class EuromillionsDraw {
      * @return an array of dips containing only the numbers and starts that
      * are also present in the draw
      */
-    public ArrayList<Dip> findMatches(CuponEuromillions playCuppon) {
+    public List<Dip> findMatches(CuponEuromillions playCuppon) {
 
-        ArrayList<Dip> results = new ArrayList<Dip>();
+        ArrayList<Dip> results = new ArrayList<>();
         Dip workingDip;
 
         for (Dip dip : playCuppon) {
