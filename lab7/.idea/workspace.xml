@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3f068d9-18a2-474c-bb5a-1e318c1ecf4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab2/gs-mockForHttpClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/gs-mockForHttpClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex1/target/classes/ua/tqs/lab3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex1/target/classes/ua/tqs/lab3/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex1/target/test-classes/ua/tqs/lab3/SauceLabsHomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex1/target/test-classes/ua/tqs/lab3/SauceLabsHomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex2/target/classes/ua/tqs/lab3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex2/target/classes/ua/tqs/lab3/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/InteractiveSelJupiterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/InteractiveSelJupiterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/InteractiveTestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/InteractiveTestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/SauceLabsHomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/SauceLabsHomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/SelJupiterDockerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex2/target/test-classes/ua/tqs/lab3/SelJupiterDockerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex3/target/classes/ua/tqs/lab3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex3/target/classes/ua/tqs/lab3/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/InteractiveSelJupiterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/InteractiveSelJupiterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/InteractiveTestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/InteractiveTestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/SauceLabsHomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/SauceLabsHomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/SelJupiterDockerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex3/target/test-classes/ua/tqs/lab3/SelJupiterDockerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex4/ex4/target/test-classes/ua/tqs/ex4/tests/ApplyAsDeveloperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex4/ex4/target/test-classes/ua/tqs/ex4/tests/ApplyAsDeveloperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex4/ex4/target/test-classes/ua/tqs/ex4/webpages/DeveloperApplyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex4/ex4/target/test-classes/ua/tqs/ex4/webpages/DeveloperApplyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Ex4/ex4/target/test-classes/ua/tqs/ex4/webpages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Ex4/ex4/target/test-classes/ua/tqs/ex4/webpages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex1/target/classes/ua/tqs/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex1/target/classes/ua/tqs/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex1/target/test-classes/ua/tqs/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex1/target/test-classes/ua/tqs/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex1/target/test-classes/ua/tqs/CucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex1/target/test-classes/ua/tqs/CucumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex2/target/classes/ua/tqs/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex2/target/classes/ua/tqs/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex2/target/classes/ua/tqs/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex2/target/classes/ua/tqs/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex2/target/test-classes/ua/tqs/CucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex2/target/test-classes/ua/tqs/CucumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Ex2/target/test-classes/ua/tqs/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Ex2/target/test-classes/ua/tqs/LibraryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/ex3/target/classes/ua/tqs/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/ex3/target/classes/ua/tqs/Ex3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/ex3/target/test-classes/ua/tqs/BlazeDemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/ex3/target/test-classes/ua/tqs/BlazeDemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/ex3/target/test-classes/ua/tqs/CucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/ex3/target/test-classes/ua/tqs/CucumberTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sGMYmBJJHbqQc3zCBUStgoTQTu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ex2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3f068d9-18a2-474c-bb5a-1e318c1ecf4a" name="Default Changelist" comment="" />
+      <created>1620494522349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620494522349</updated>
+      <workItem from="1620494523704" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
