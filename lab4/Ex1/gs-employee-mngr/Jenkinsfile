@@ -12,10 +12,10 @@ pipeline {
 		}
 		stage('test maven installation') {
 			steps {
-	           dir('lab4/Ex1/gs-employee-mngr'){
+
                		sh "$PWD"
                		sh 'mvn -version'
-	           }
+
             }
 		}
 	}
