@@ -13,7 +13,6 @@ pipeline {
 		stage('test maven installation') {
 			steps {
 
-               		sh "$PWD"
                		sh 'mvn -version'
 
             }
