@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Optional;
 
 import static org.assertj.core.api.Assertions.assertThat;
-
+import static org.junit.jupiter.api.Assertions.fail;
 @ExtendWith(MockitoExtension.class)
 public class EmployeeService_UnitTest {
 
@@ -45,6 +45,11 @@ public class EmployeeService_UnitTest {
         Mockito.when(employeeRepository.findById(-99L)).thenReturn(Optional.empty());
     }
 
+	@Test
+	public void falingTest(){
+		fail("failing test");
+	}
+	
     @Test
     public void whenValidName_thenEmployeeShouldBeFound() {
         String name = "alex";
